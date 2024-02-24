@@ -1,5 +1,7 @@
 # Domain-Checking-Using-UiPath
-Asset Name:Domain_config
+
+Asset Name:Domain_config [you need to create the asset in orchestrator. It is mandatory]
+
 Project Name: Domain Checking Project
 
 Project Overview:
